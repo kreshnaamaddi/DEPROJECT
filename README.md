@@ -1,0 +1,2 @@
+# DEPROJECT
+Azure project
